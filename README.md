@@ -30,6 +30,6 @@ Syllabus_latest.pdf   - 最新版（現在は Syllabus_20221107.pdf へのシン
 
 Note1: URL = https://github.com/hohno-46466/rZone--POSIX_Education_Syllubus_Survey.git
 
-Note2: URL = https://github.com/hohno-46466/rZone--POSIX_Education_Syllubus_Survey
+Note2: URL = git@github.com:hohno-46466/rZone--POSIX_Education_Syllubus_Survey.git
 
 -EOF-
