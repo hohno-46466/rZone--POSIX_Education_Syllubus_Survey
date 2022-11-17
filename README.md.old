@@ -8,12 +8,10 @@ Syllabus_20221107.pdf - 2022年11月7日時点での調査結果
 
 Syllabus_latest.pdf   - 最新版（現在は Syllabus_20221107.pdf へのシンボリックリンク）
 
-
 概要
 
 公開されているシラバスを確認すると，シェルスクリプトを学ばせることをあらかじめシラバスに記入している講義が，シラバスを全文検索できた大学62校のうち37%に存在した．
 高い割合に見えるが，確認できた講義数は45講義であり，それらの講義で教授する内容のほとんどが，高水準言語を用いたプログラミングやアルゴリズムなどに関するもので，シェルやコマンド，シェルスクリプトについては，それらの講義の中で数回程度教えると書かれていることがほとんどであった．
-
 
     このリポジトリのディレクトリ構成：
 
@@ -25,7 +23,7 @@ Syllabus_latest.pdf   - 最新版（現在は Syllabus_20221107.pdf へのシン
      ├──  Syllabus_20221107.pdf
      └──  Syllabus_latest.pdf -> Syllabus_20221107.pdf
      
-     1 directory, 5 files (Mon Nov  7 21:37:04 JST 2022)
+     1 directory, 5 files (Sat Nov 12 00:16:26 JST 2022)
 
 
 Note1: URL = https://github.com/hohno-46466/rZone--POSIX_Education_Syllubus_Survey.git
