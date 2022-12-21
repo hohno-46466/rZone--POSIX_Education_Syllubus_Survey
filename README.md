@@ -23,7 +23,7 @@ Syllabus_latest.pdf   - 最新版（現在は Syllabus_20221107.pdf へのシン
      ├──  Syllabus_20221107.pdf
      └──  Syllabus_latest.pdf -> Syllabus_20221107.pdf
      
-     1 directory, 5 files (Sun Nov 20 00:10:41 JST 2022)
+     1 directory, 5 files (Thu Dec 22 04:09:38 JST 2022)
 
 
 Note1: URL = https://github.com/hohno-46466/rZone--POSIX_Education_Syllubus_Survey.git
